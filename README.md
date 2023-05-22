@@ -1,7 +1,7 @@
-Problem Solving Repository
+# Problem Solving Repository
 
 This repository is dedicated to solving various programming problems and puzzles, providing solutions in multiple programming languages. It serves as a resource for individuals looking to enhance their problem-solving skills and gain hands-on experience with algorithmic challenges.
-Table of Contents
+### Table of Contents
 
     Introduction
     Getting Started
@@ -9,7 +9,7 @@ Table of Contents
     Contributing
     License
 
-Introduction
+### Introduction
 
 The Problem Solving Repository is a collection of carefully selected programming problems from various domains, including data structures, algorithms, dynamic programming, graph theory, and more. Each problem is accompanied by a detailed description, input-output examples, and possible constraints.
 Getting Started
