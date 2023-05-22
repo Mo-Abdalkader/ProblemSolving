@@ -1,6 +1,7 @@
 # Problem Solving Repository
 
 This repository is dedicated to solving various programming problems and puzzles, providing solutions in multiple programming languages. It serves as a resource for individuals looking to enhance their problem-solving skills and gain hands-on experience with algorithmic challenges.
+
 ### Table of Contents
 
     Introduction
@@ -23,7 +24,7 @@ To get started with the repository, follow these steps:
     Test your solution: Use the provided input-output examples to test your solution and ensure its correctness.
     Submit your solution: Once satisfied with your solution, submit a pull request to contribute it back to the repository.
 
-Problem Categories
+### Problem Categories
 
 The repository covers a wide range of problem categories, including but not limited to:
 
@@ -38,7 +39,7 @@ The repository covers a wide range of problem categories, including but not limi
     Greedy Algorithms
     System Design Problems
 
-Contributing
+### Contributing
 
 Contributions to the Problem Solving Repository are highly encouraged. If you have a new problem or solution to contribute, follow these steps:
 
